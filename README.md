@@ -81,7 +81,7 @@ Pour vous aider dans votre initialisation, nous vous avons préparer quelques as
 - La police utilisée dans le design est Roboto
 - Les [variables SCSS](/assets/scss) (Non exaustif)
 - [Quelques icones](/assets/svg) au format SVG () (Non exaustif, voir #Links)
-- Les [logo Origami](/assets/logo) (Png et Svg)
+- Les [logos Leaders League](/assets/logo) (Png et Svg)
 
 
 ### Démarrage API
