@@ -69,14 +69,21 @@ Vous devrez tirer parti d'une API ouverte pour les données des musiques afin de
 
 ## 🥑 Mise en route
 
+### Création de votre repository
 
-**Forkez ce dépôt en privé et envoyez-nous une invitation pour que nous puissions voir l'avancement du projet.**
+> **🚨 Important: Forkez ce dépôt en privé et envoyez-nous une invitation ([@leadersleague][leadersleague]) pour que nous puissions voir l'avancement du projet.**
+
+
+### Démarrage html / css
 
 Pour vous aider dans votre initialisation, nous vous avons préparer quelques assets:
 
 - La police utilisée dans le design est Roboto
 - Les [variables SCSS](/assets/scss) (Non exaustif)
 - [Quelques icones](/assets/svg) au format SVG () (Non exaustif, voir #Links)
+
+
+### Démarrage API
 
 Pour utilisez l'[Audius api][audius-api], vous pouvez vous rendre directement sur la [Recherche de musiques][audius-search] et y faire votre call api.
 
@@ -178,7 +185,8 @@ Originally written & currently maintained by **Leaders League** © 2021
 
 
 
-[vinces]: https://vinces.io
+[vinces]: https://github.com/Sp0ne
+[leadersleague]: https://github.com/leadersleague
 [screen]: screenshot/screen-login.png
 [figma-bo]: https://www.figma.com/file/UfSE9T3J8mE1evGwJOeubT/LL---Test---Frontend?node-id=0%3A1
 [figma-icon]: https://www.figma.com/community/plugin/744047966581015514/Feather-Icons
