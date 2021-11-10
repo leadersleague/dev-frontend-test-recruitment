@@ -50,7 +50,7 @@ Vous devrez tirer parti d'une API ouverte pour les données des musiques afin de
 
 
 - Framework de votre choix (React Js, Vue Js, ...)
-- Gestion des états (optionelle)
+- Gestion des états (optionel)
 - CSS modulaire
 - Responsive design
 - Prettier & Linting
