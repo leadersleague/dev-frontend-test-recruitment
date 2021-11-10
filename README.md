@@ -51,6 +51,7 @@ Vous devrez tirer parti d'une API ouverte pour les données des musiques afin de
 
 - Framework de votre choix (React Js, Vue Js, ...)
 - Gestion des états (optionel)
+- Es6 Module (Utilisation Async / Await)
 - CSS modulaire
 - Responsive design
 - Prettier & Linting
@@ -76,8 +77,6 @@ Pour vous aider dans votre initialisation, nous vous avons préparer quelques as
 - La police utilisée dans le design est Roboto
 - Les [variables SCSS](/assets/scss) (Non exaustif)
 - [Quelques icones](/assets/svg) au format SVG () (Non exaustif, voir #Links)
-
-
 
 
 
