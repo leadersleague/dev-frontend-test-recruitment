@@ -28,7 +28,7 @@
 
 ## 🗃 Introduction
 
-**Le but du test est d'utilisé vos compétences afin d'initier un projet Front-End et d'intégrer en responsive les mockups ci-dessous.**
+**Le but du test est d'utiliser vos compétences afin d'initier un projet Front-End et d'intégrer en responsive les mockups ci-dessous.**
 
 
 ![Screen Starter][screen]
@@ -70,7 +70,7 @@ Vous devrez tirer parti d'une API ouverte pour les données des musiques afin de
 
 **Forkez ce dépôt en privé et envoyez-nous une invitation pour que nous puissions voir l'avancement du projet.**
 
-Pour vous aidez dans votre initialisation, nous vous avons préparer quelques assets:
+Pour vous aider dans votre initialisation, nous vous avons préparer quelques assets:
 
 - La police utilisée dans le design est Roboto
 - Les [variables SCSS](/assets/scss) (Non exaustif)
