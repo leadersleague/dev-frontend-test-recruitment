@@ -78,6 +78,20 @@ Pour vous aider dans votre initialisation, nous vous avons préparer quelques as
 - Les [variables SCSS](/assets/scss) (Non exaustif)
 - [Quelques icones](/assets/svg) au format SVG () (Non exaustif, voir #Links)
 
+Pour utilisez l'[Audius api][audius-api], vous pouvez vous rendre directement sur la [Recherche de musiques][audius-search] et y faire votre call api.
+
+Voici un exemple en javascript:
+
+```javascript
+    fetch('https://discovery-b.mainnet.audius.radar.tech/v1/tracks/search?query=baauer b2b&app_name=EXAMPLEAPP',
+    {
+      method: 'GET',
+      headers: { 'Accept':'application/json' }
+    })
+    .then(function(res) { return res.json();})
+    .then(function(body) { console.log(body);
+    });
+```
 
 
 ---
