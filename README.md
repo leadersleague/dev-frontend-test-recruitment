@@ -189,7 +189,7 @@ Originally written & currently maintained by **Leaders League** © 2021
 [vinces]: https://github.com/Sp0ne
 [leadersleague]: https://github.com/leadersleague
 [screen]: screenshot/screen-login.png
-[figma-bo]: https://www.figma.com/proto/RQ5XO6TsCrWowzv1dsfrZA/ll_test_frontend_web
+[figma-bo]: https://www.figma.com/file/UfSE9T3J8mE1evGwJOeubT/LL---Test---Frontend
 [figma-icon]: https://www.figma.com/community/plugin/744047966581015514/Feather-Icons
 [feathericons]: https://feathericons.com/
 [audius-api]: https://audiusproject.github.io/api-docs/#audius-api-docs
