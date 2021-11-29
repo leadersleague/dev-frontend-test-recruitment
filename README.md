@@ -34,7 +34,7 @@
 ![Screen Starter][screen]
 
 
-> Voici les fichiers [Source Figma][figma-bo]
+> Voici les fichiers [Source Figma][figma-bo] (Identifiez vous "gratuit" sur le figma pour voir les propriétées css)
 
 
 
