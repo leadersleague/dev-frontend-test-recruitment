@@ -36,6 +36,8 @@
 
 > Voici les fichiers [Source Figma][figma-bo] (Identifiez vous "gratuit" sur le figma pour voir les propriétées css)
 
+![img](screenshot/infos_css_figma.png)
+
 
 
 ---
@@ -189,6 +191,7 @@ Originally written & currently maintained by **Leaders League** © 2021
 [vinces]: https://github.com/Sp0ne
 [leadersleague]: https://github.com/leadersleague
 [screen]: screenshot/screen-login.png
+[scree-css]: screenshot/infos_css_figma.png
 [figma-bo]: https://www.figma.com/file/UfSE9T3J8mE1evGwJOeubT/LL---Test---Frontend
 [figma-icon]: https://www.figma.com/community/plugin/744047966581015514/Feather-Icons
 [feathericons]: https://feathericons.com/
