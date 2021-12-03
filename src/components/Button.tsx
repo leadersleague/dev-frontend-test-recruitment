@@ -1,7 +1,13 @@
 import React from "react";
+import Icon from "../components/Icon";
 
-const Button = () => {
-  return <div></div>;
+const Button: React.FC = () => {
+  return (
+    <button>
+      <Icon nameIcon="fly" />
+      Connexion
+    </button>
+  );
 };
 
 export default Button;

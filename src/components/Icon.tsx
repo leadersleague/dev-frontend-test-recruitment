@@ -1,5 +1,5 @@
 import React from "react";
-import getIcon from "../../selectors/getIcons";
+import getIcon from "../selectors/getIcons";
 type IconProps = {
   nameIcon: string;
 };
