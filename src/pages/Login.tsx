@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import logging from "../config/logging";
 import IPage from "../interfaces/page";
 import Icon from "../components/Icon";
@@ -22,7 +23,9 @@ const Login: React.FC<IPage> = ({ name }) => {
           de votre compte interne. Pour plus de renseignement contactez votre
           administrateur.
         </p>
-        <Button />
+        <Link to="/musics">
+          <Button />
+        </Link>
       </div>
     </div>
   );
